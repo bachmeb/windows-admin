@@ -1,8 +1,7 @@
 # windows 7 active directory users and computers
 
 ## References
-* https://www.microsoft.com/en-us/download/details.aspx?id=7887
-
+* http://www.microsoft.com/downloads/en/details.aspx?FamilyID=7d2f6ad7-656b-4313-a005-4e344e43997d&amp;amp;amp;displaylang=en
 
 * On a computer that is running Windows 7 or Windows 7 with SP1, download the Remote Server Administration Tools for Windows 7 with SP1 package from the Microsoft Download Center (Windows6.1-KB958830-x64-RefreshPkg.msu)
   * https://www.microsoft.com/en-us/download/details.aspx?id=7887
